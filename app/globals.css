@@ -1,5 +1,20 @@
 @import "tailwindcss";
 
+/* Exact surface and action tokens extracted from Football Board.fig. */
+@theme {
+  --color-slate-950: #020617;
+  --color-slate-900: #0f172a;
+  --color-slate-800: #1e293b;
+  --color-slate-700: #334155;
+  --color-slate-600: #475569;
+  --color-slate-500: #64748b;
+  --color-slate-400: #94a3b8;
+  --color-slate-300: #cbd5e1;
+  --color-slate-50: #f8fafc;
+  --color-blue-500: #3b82f6;
+  --color-emerald-500: #10b981;
+}
+
 :root {
   color-scheme: dark;
   background: #101915;

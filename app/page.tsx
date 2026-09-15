@@ -1,4 +1,5 @@
 import { Goal, Move } from "lucide-react";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Move size={20} className="shrink-0 text-emerald-400" aria-hidden="true" />
         <p>Responsive by design: pitch positions use normalized coordinates from 0 to 1.</p>
       </div>
+      <Link href="/teams" className="mt-6 w-fit rounded-lg bg-blue-500 px-5 py-3 text-sm font-medium text-white hover:bg-blue-600">Manage teams and players</Link>
     </main>
   );
 }

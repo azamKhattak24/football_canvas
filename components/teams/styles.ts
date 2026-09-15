@@ -1,0 +1,3 @@
+export const inputClass = "mt-2 h-10 w-full rounded-md border border-slate-700 bg-[#131b2e] px-3 text-sm text-slate-50 outline-none placeholder:text-slate-500 focus:border-blue-400 focus:ring-2 focus:ring-blue-400/30";
+export const primaryButton = "inline-flex min-h-10 items-center justify-center gap-2 rounded-lg bg-blue-500 px-4 py-2 text-[13px] font-medium text-white hover:bg-blue-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-400";
+export const secondaryButton = "inline-flex min-h-10 items-center justify-center gap-2 rounded-lg border border-slate-700 px-4 py-2 text-[13px] text-slate-300 hover:bg-slate-700 focus-visible:outline-2 focus-visible:outline-blue-400";
