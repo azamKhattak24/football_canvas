@@ -4,6 +4,8 @@ Next.js App Router with TypeScript, Tailwind CSS, Lucide React, Supabase, Zustan
 
 ## Development
 
+Use Node.js 22.13+ (or Node.js 24+). With nvm, run `nvm install` to use the project's Node 22 release line.
+
 ```sh
 npm install
 npm run dev
