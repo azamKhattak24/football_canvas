@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.116.0",
+    "konva": "^10.5.0",
+    "lucide-react": "^1.46.0",
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-konva": "^19.3.0",
+    "zustand": "^5.0.15"
+  },
+  "name": "football-tactical-board",
+  "version": "0.1.0",
+  "private": "true"
+}
