@@ -1,3 +1,7 @@
+# Project: Football Pitch Tactical Board
+
+- Stack: Next.js (App Router), TypeScript, Tailwind CSS, Supabase, react-konva, Zustand
+- Responsive Pitch Standard: All coordinates (x, y) must be normalized (0.0 to 1.0) relative to pitch dimensions.
 
 <!-- BEGIN:nextjs-agent-rules -->
 
